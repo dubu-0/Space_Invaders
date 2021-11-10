@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b49c3e57-f0a4-4d4f-8bdd-3f7204085e73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/127E81E1-CB34-41CC-97D2-6B1910DAAE77/98/74d15a95/0200021F.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8D3A4CBA-CDAE-45B3-84E0-E80B376938E1/76/54facd92/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shredder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6AF207EC-D210-4462-8913-F7CC589986AE/de/ab31f5c7/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/127E81E1-CB34-41CC-97D2-6B1910DAAE77/2c/5eb0b2c8/WaitForSeconds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ResolutionFix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/127E81E1-CB34-41CC-97D2-6B1910DAAE77/43/1f7e1088/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/LaserShredder.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/EnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ReceiveDamage.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScrollingBackground.cs" />
+      <option value="$PROJECT_DIR$/Assets/FollowPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Quit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Shredder.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPathing.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HealthGradient.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DamageDealer.cs" />
+      <option value="$PROJECT_DIR$/Assets/DeactivateCanvas.cs" />
+      <option value="$PROJECT_DIR$/Assets/ActivateCanvas.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DamageReceiver.cs" />
+      <option value="$PROJECT_DIR$/Assets/MoveControlsDown.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/ResolutionFix.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WaveConfig.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1v7f34sISZmv0uR7VTbq7AhreP8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3916501" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.2620865" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Space Invaders Standalone Build/Laser_Defender.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Максим2\Documents\repos_unity\Unity2D\Laser Defender\Space Invaders Standalone Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49c3e57-f0a4-4d4f-8bdd-3f7204085e73" name="Default Changelist" comment="" />
+      <created>1625917846908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625917846908</updated>
+      <workItem from="1625917856543" duration="17113000" />
+      <workItem from="1625937030710" duration="4810000" />
+      <workItem from="1625991402422" duration="18330000" />
+      <workItem from="1626070030400" duration="2491000" />
+      <workItem from="1626072657659" duration="23205000" />
+      <workItem from="1626158359381" duration="28048000" />
+      <workItem from="1626265836136" duration="5017000" />
+      <workItem from="1626277341810" duration="3197000" />
+      <workItem from="1626329066418" duration="4806000" />
+      <workItem from="1626341661191" duration="6415000" />
+      <workItem from="1626358333406" duration="5336000" />
+      <workItem from="1626460014068" duration="2805000" />
+      <workItem from="1626510572833" duration="5298000" />
+      <workItem from="1626679626242" duration="3758000" />
+      <workItem from="1626692185332" duration="5048000" />
+      <workItem from="1626771958295" duration="18901000" />
+      <workItem from="1626874061799" duration="108000" />
+      <workItem from="1627223223179" duration="75000" />
+      <workItem from="1630962368740" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/DamageReceiver.cs</url>
+          <line>87</line>
+          <properties documentPath="C:\Users\Максим2\Documents\repos_unity\Unity2D\Laser Defender\Laser_Defender\Assets\Scripts\DamageReceiver.cs" initialLine="86" containingFunctionPresentation="method 'DestroyHandler'">
+            <startOffsets>
+              <option value="2216" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2241" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
